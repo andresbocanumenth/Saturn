@@ -1,0 +1,6 @@
+framework module Pods_testSaturnTests {
+  umbrella header "Pods-testSaturnTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
